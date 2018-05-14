@@ -4,7 +4,7 @@
 
 For example, given a 3-ary tree:
 
-()[https://leetcode-cn.com/static/images/problemset/NaryTreeExample.png]
+![](https://leetcode-cn.com/static/images/problemset/NaryTreeExample.png)
 Return its postorder traversal as: [5,6,3,2,4,1].
 ### 代码<h3>
 ```C++
