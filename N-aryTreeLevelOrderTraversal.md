@@ -4,7 +4,7 @@
 
 For example, given a 3-ary tree:
 
-![https://leetcode-cn.com/static/images/problemset/NaryTreeExample.png]()
+![](https://leetcode-cn.com/static/images/problemset/NaryTreeExample.png)
 We should return its level order traversal:
 ```
 [
