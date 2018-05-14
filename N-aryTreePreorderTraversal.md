@@ -3,7 +3,7 @@
 > Given an n-ary tree, return the preorder traversal of its nodes' values.
 
 For example, given a 3-ary tree:
-()[https://leetcode-cn.com/static/images/problemset/NaryTreeExample.png]
+![](https://leetcode-cn.com/static/images/problemset/NaryTreeExample.png)
 
 Return its preorder traversal as: [1,3,5,6,2,4].
 ### 代码<h3>
