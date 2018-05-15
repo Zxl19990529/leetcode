@@ -12,7 +12,7 @@ We should return its max depth, which is 3.
 ### Note:<h3>
 - The depth of the tree is at most 1000.
 - The total number of nodes is at most 5000.
-### Codes(52ms) 该题史上最快的递归<h4>
+### Codes(56ms) 该题史上最快的递归<h4>
 ```C++
 /*
 // Definition for a Node.
